@@ -10,6 +10,5 @@ int main() {
     
     std::cout << "Hello, world! My number is " << 106056273 << '!' << std::endl;
 
-
     return 0;
 }
